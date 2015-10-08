@@ -1,0 +1,15 @@
+{
+  "name": "dash-emitter",
+  "version": "1.0.0",
+  "description": "An event emitter for interaction with Amazon Dash buttons",
+  "main": "index.js",
+  "dependencies": {
+    "pcap": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Wilmott <p@p8952.info>",
+  "license": "MIT"
+}
