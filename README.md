@@ -1,6 +1,6 @@
 # dash-emitter
 
-[![NPM](https://nodei.co/npm/dash-emitter.png?downloads=true)](https://nodei.co/npm/<package>/)
+[![NPM](https://nodei.co/npm/dash-emitter.png?downloads=true)](https://nodei.co/npm/dash-emitter/)
 
 An event emitter for interaction with [Amazon Dash](www.amazon.com/oc/dash-button) buttons, inspired by [Ted Benson](https://twitter.com/edwardbenson)'s [blog post](https://medium.com/@edwardbenson/how-i-hacked-amazon-s-5-wifi-button-to-track-baby-data-794214b0bdd8).
 
